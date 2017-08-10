@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 testing colaboradores 2 
 testing colaboradores 3 
+=======
+"prueba subida" 
+este es un cambio en archivo1 
+>>>>>>> 3491650de1d9236034b93b68faf8f8fb9b60673f
